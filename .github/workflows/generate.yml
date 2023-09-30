@@ -1,0 +1,64 @@
+name: Generate PDF from Markdown
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+    
+      - name: Convert Markdown to PDF with pandoc
+        uses: docker://pandoc/latex:2.9
+        with:
+            args: >-
+              --standalone
+              -V geometry=margin=2.5cm
+              -V lang=de
+              -V babel-lang=german
+              -V header-includes="\usepackage{fancyhdr}"
+              -V header-includes="\pagestyle{fancy}"
+              -V header-includes="\fancyhf{}"
+              -V header-includes="\renewcommand{\headrulewidth}{0pt}"
+              -V header-includes="\lfoot{Satzung v4}"
+              -V header-includes="\rfoot{Generiert am: \today}"
+              -V header-includes="\thispagestyle{fancy}"
+              --output=Satzung.pdf
+              Satzung.md
+          
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: Satzung
+          path: Satzung.pdf
+
+  deploy-pdf:
+    runs-on: ubuntu-latest
+    needs:
+      - generate-pdf
+    steps:
+      - name: Download PDF artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: Satzung
+
+      - name: Install SSH key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          name: id_ed25519
+          known_hosts: ${{ secrets.KNOWN_HOSTS }}
+
+      - name: Deploy
+        run: |
+          git clone git@github.com:Coderdojo-Schoeneweide/website-hugo.git
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          cd website-hugo/
+          cp ../Satzung.pdf static/docs/verein/satzung.pdf
+          git add static/docs
+          git commit -m "Updated Vereinssatzung PDF"
+          git push origin master

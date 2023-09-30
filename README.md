@@ -1,0 +1,2 @@
+# Satzung des Vereins CoderDojo Schöneweide
+Hier geht's zur aktuell gültigen Version der Satzung: [Satzung des CoderDojo Schöneweide](https://github.com/Coderdojo-Schoeneweide/satzung-verein/blob/v4/Satzung.md)
