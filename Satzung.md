@@ -14,8 +14,12 @@
 
 1) Zweck des Vereins ist die Förderung der Volksbildung sowie der Gleichberechtigung aller Menschen im Bildungsbereich Informatik und Technik. Dies verwirklicht der Verein hauptsächlich aber nicht ausschließlich, indem er
 
-    a. Bildungsveranstaltungen im Bereich Informatik und Technik abhält,
-    
+    a. Bildungsveranstaltungen im Bereich Informatik und Technik abhält. Dazu zählen zum Beispiel kostenfreie Workshops, in denen
+
+        i. Grundlagen der Programmierung und
+
+        ii. spielerischer Umgang mit Technik, z.B. mit Spielzeugrobotern vermittelt werden,
+
     b. die Materialien zur Durchführung der Veranstaltungen beschafft und verwaltet,
     
     c. die Räumlichkeiten der Veranstaltungen nach Bedarf finanziert,
@@ -24,15 +28,23 @@
     
     e. Honorare für Dozent:innen und Mentor:innen von Veranstaltungen des Vereins CoderDojo Schöneweide trägt,
     
-    f. die Teilnahme von Personen, die in der Informatik nicht angemessen repräsentiert sind, fördert.
+    f. die Teilnahme von Personen, die in der Informatik nicht angemessen repräsentiert sind, fördert, u.a. durch
+    
+        i. das Freihalten eines Teils der Veranstaltungsplätze für Teilnehmende aus weniger repräsentierten Gruppen,
+    
+        ii. Workshops speziell für unterrepräsentierte Gruppen (z.B. Veranstaltungen zum Girls Day) und
+    
+        iii. das bewusste Wählen von geschlechtsneutralen Themen und Formulierungen.
 
-2) Der Verein ist selbstlos tätig. Er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für satzungsgemäße Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus den Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+2) Das Coderdojo Schöneweide verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
-3) Der Verein wahrt weltanschauliche, religiöse und politische Neutralität. Er verschreibt sich dem gleichberechtigten, demokratischen und diskriminierungsfreien Zusammenleben aller Menschen. Der Verein lehnt Unterscheidungen aufgrund des Geschlechtes, der Herkunft, der Religion, der Weltanschauung, der wirtschaftlichen Stellung oder der Staatsangehörigkeit ab.
+3) Der Verein ist selbstlos tätig. Er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für satzungsgemäße Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus den Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
-4) Der Verein verurteilt jegliche Form von Gewalt, unabhängig davon ob sie körperlicher, seelischer oder sexualisierter Art ist. Insbesondere ist jede Diskriminierung aufgrund sexueller Orientierung, geschlechtlicher Identität oder körperlicher Geschlechtsmerkmale untersagt. Er stellt sich zur Aufgabe, Maßnahmen zum Schutz der Kinder, Jugendlichen und Erwachsenen vor jeder Art von Gewalt zu initiieren.
+4) Der Verein wahrt weltanschauliche, religiöse und politische Neutralität. Er verschreibt sich dem gleichberechtigten, demokratischen und diskriminierungsfreien Zusammenleben aller Menschen. Der Verein lehnt Unterscheidungen aufgrund des Geschlechtes, der Herkunft, der Religion, der Weltanschauung, der wirtschaftlichen Stellung oder der Staatsangehörigkeit ab.
 
-5) Verstöße gegen die Absätze 3 und 4 stehen einem Verstoß gegen die Zwecke des Vereins gleich und berechtigten den Vorstand als solche zum Ausschluss eines Mitgliedes.
+5) Der Verein verurteilt jegliche Form von Gewalt, unabhängig davon ob sie körperlicher, seelischer oder sexualisierter Art ist. Insbesondere ist jede Diskriminierung aufgrund sexueller Orientierung, geschlechtlicher Identität oder körperlicher Geschlechtsmerkmale untersagt. Er stellt sich zur Aufgabe, Maßnahmen zum Schutz der Kinder, Jugendlichen und Erwachsenen vor jeder Art von Gewalt zu initiieren.
+
+6) Verstöße gegen die Absätze 3 und 4 stehen einem Verstoß gegen die Zwecke des Vereins gleich und berechtigten den Vorstand als solche zum Ausschluss eines Mitgliedes.
 
 **§ 3 Mitgliedschaft**
 
@@ -142,4 +154,4 @@
 
 2) Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an den CoderDojo Deutschland e.V. oder dessen Rechtsnachfolger:in.
 
-3) Die vorstehenden Bestimmungen gelten entsprechend, wenn dem Verein die Rechtsfähigkeit entzogen wurde.
+3) Die vorstehenden Bestimmungen gelten entsprechend, wenn dem Verein die Rechtsfähigkeit entzogen wurde. Der Vermögensempfänger hat das Vermögen unmittelbar und ausschließlich für steuerbegünstigte Zwecke zu verwenden.
