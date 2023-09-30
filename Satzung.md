@@ -14,7 +14,7 @@
 
 1) Zweck des Vereins ist die Förderung der Volksbildung sowie der Gleichberechtigung aller Menschen im Bildungsbereich Informatik und Technik. Dies verwirklicht der Verein hauptsächlich aber nicht ausschließlich, indem er
 
-    a. Bildungsveranstaltungen im Bereich Informatik und Technik abhält. Dazu zählen zum Beispiel kostenfreie Workshops, in denen
+    a. Bildungsveranstaltungen im Bereich Informatik und Technik abhält. Dazu zählen zum Beispiel kostenfreie Workshops, in der Regel für Kinder und Jugendliche, in denen
 
         i. Grundlagen der Programmierung und
 
@@ -36,7 +36,7 @@
     
         iii. das bewusste Wählen von geschlechtsneutralen Themen und Formulierungen.
 
-2) Das Coderdojo Schöneweide verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
+2) Das CoderDojo Schöneweide verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
 3) Der Verein ist selbstlos tätig. Er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für satzungsgemäße Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus den Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
@@ -102,7 +102,7 @@
 
     a. beschließt die Änderungen der Satzung,
 
-    b. beschließt in einer Finanzordnung, ob und in welcher Höhe einmalige oder wiederkehrende Beiträge erhoben werden,
+    b. (weggefallen)
 
     c. beschließt in einer Aufwandsordnung, ob und für welche Tätigkeiten der Aufwand der Mitglieder im Rahmen einer Ehrenamtspauschale oder Aufwandsentschädigung honoriert wird,
 
@@ -124,9 +124,9 @@
 
 3) Die Tagesordnung setzt der Vorstand fest. Der Vorstand berücksichtigt fristgerecht eingereichte Anträge. Die ordentliche Mitgliederversammlung muss die Jahresberichte, einen Haushaltsplan und die Entlastung des Vorstandes zum Gegenstand haben. In Wahljahren ist die Wahl des Vorstandes Gegenstand der ordentlichen Versammlung.
 
-4) Der Vorstand kann jederzeit eine außerordentliche Mitgliederversammlung einzuberufen. Der Vorstand ruft eine außerordentliche Mitgliederversammlung ein, wenn mindestens ein Zehntel aller Mitglieder dies schriftlich unter Angabe des Zwecks und der Gründe beantragt.
+4) Der Vorstand kann jederzeit eine außerordentliche Mitgliederversammlung einberufen. Der Vorstand ruft eine außerordentliche Mitgliederversammlung ein, wenn mindestens ein Zehntel aller Mitglieder dies schriftlich unter Angabe des Zwecks und der Gründe beantragt.
 
-5) Die Mitgliederversammlung wird durch ein Vorstandsmitglied geleitet. Ist kein Vorstandsmitglied verfügbar leitet das Mitglied mit der längsten Mitgliedschaftszeit die Sitzung; bei gleicher Mitgliedschaftslänge leitet das jüngere Mitglied die Sitzung.
+5) Die Mitgliederversammlung wird durch ein Vorstandsmitglied geleitet. Ist kein Vorstandsmitglied verfügbar, leitet das Mitglied mit der längsten Mitgliedschaftszeit die Sitzung; bei gleicher Mitgliedschaftslänge leitet das jüngere Mitglied die Sitzung.
 
 6) Die Sitzungsleitung eröffnet die Sitzung und das Protokoll durch die Feststellung der Leitung, der Protokollführung, die Anwesenheit und die Verlesung der Ladung sowie der Tagesordnung.
 
@@ -136,11 +136,11 @@
 
 9) Beschlüsse über eine Änderung der Satzung bedürfen der Mehrheit von zwei Dritteln aller gültig abgegebenen Stimmen. Der Beschluss der Auflösung des Vereins bedarf der Mehrheit von drei Vierteln aller anwesenden Mitglieder.
 
-10) Es ist nur über die gefassten Beschlüsse ein Protokoll zu fertigen, welches in der nächsten Vorstandssitzung zu bestätigen ist. Der Vorstand hat das Recht auch nachträglich Erklärung zum Protokoll zu geben.
+10) Es ist nur über die gefassten Beschlüsse ein Protokoll zu fertigen, welches in der nächsten Vorstandssitzung zu bestätigen ist. Die schriftführende Person ist zu Beginn der Versammlung zu bestimmen. Der Vorstand hat das Recht auch nachträglich Erklärung zum Protokoll zu geben. Das Protokoll ist von der Person, die die Versammlung leitet, und der schriftführenden Person zu unterzeichnen.
 
 **§ 7 Beitrag**
 
-1) Ob und in welchem Ausmaß Mitgliedsbeiträge erhoben werden, ist in der Finanzordnung geregelt. Die Finanzordnung wird von der Mitgliederversammlung beschlossen. (siehe §6 1b)
+1) Es werden keine Mitgliederbeiträge erhoben.
 
 **§ 8 Kassenprüfung**
 
@@ -154,4 +154,4 @@
 
 2) Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an den CoderDojo Deutschland e.V. oder dessen Rechtsnachfolger:in.
 
-3) Die vorstehenden Bestimmungen gelten entsprechend, wenn dem Verein die Rechtsfähigkeit entzogen wurde. Der Vermögensempfänger hat das Vermögen unmittelbar und ausschließlich für steuerbegünstigte Zwecke zu verwenden.
+3) Die vorstehenden Bestimmungen gelten entsprechend, wenn dem Verein die Rechtsfähigkeit entzogen wurde. Der:die Vermögensempfänger:in hat das Vermögen unmittelbar und ausschließlich für steuerbegünstigte Zwecke zu verwenden.
