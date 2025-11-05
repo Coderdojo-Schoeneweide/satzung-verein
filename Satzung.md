@@ -62,8 +62,6 @@
 
 7) Fördermitglieder haben kein Stimmrecht bei Mitgliederversammlungen.
 
-8) Natürlichen Personen wird die Möglichkeit gegeben, einen frei wählbaren Beitrag zu leisten. Empfohlen werden 20 € pro Jahr. Juristische Personen wie Unternehmen und Institutionen können die Ziele des Coderdojo Schöneweide mit einen Beitrag ab 240 € pro Jahr unterstützen.
-
 **§ 4 Der Vorstand**
 
 1) Der Vorstand besteht aus zwei Vorstehenden. Dem Vorstand können auf Beschluss der Mitgliederversammlung drei Stellvertreter:innen angehören.
@@ -150,9 +148,11 @@
 
 1) Es werden keine Mitgliederbeiträge erhoben.
 
-2) Fördermitgliedschaft: Natürlichen Personen wird die Möglichkeit gegeben, einen frei wählbaren Beitrag zu leisten. Empfohlen werden 20 € pro Jahr. Juristische Personen wie Unternehmen und Institutionen können die Ziele des Coderdojo Schöneweide mit einen Beitrag ab 240 € pro Jahr unterstützen.
+2) Fördermitgliedschaft: Natürlichen Personen wird die Möglichkeit gegeben, einen frei wählbaren Beitrag zu leisten. Empfohlen werden 60 € pro Jahr. Juristische Personen wie Unternehmen und Institutionen können die Ziele des Coderdojo Schöneweide mit einen Beitrag ab 240 € pro Jahr unterstützen.
 
 3) Förderbeiträge sind jährlich zum 31.1. zu entrichten auf das Konto des CoderDojo Schöneweide e.V.: IBAN: DE83 4306 0967 1323 6039 00, BIC: GENODEM1GLS.
+
+4) Neue Fördermitgliedschaften im aktuellen Kalenderjahr entrichten den vollen Förderbeitrag, wenn sie bis einschließlich Juni beigetreten sind. Fördermitgliedschaften ab Juli entrichten den Beitrag zum nächsten Kalenderjahr. 
 
 **§ 8 Kassenprüfung**
 
