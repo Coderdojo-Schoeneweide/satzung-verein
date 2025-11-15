@@ -56,6 +56,12 @@
 
 4) Der Austritt ist dem Vorstand in Textform zu erklären. Es wird mit Ablauf des nächsten Monats wirksam.
 
+5) Jede juristische oder volljährige natürliche Person kann Fördermitglied des Vereins werden. Über die Fördermitgliedschaft entscheidet der Vorstand. Eine ablehnende Entscheidung wird nicht begründet.
+
+6) Fördermitglieder unterstützen den Verein finanziell, ohne sich in den Vereinsaktivitäten engagieren zu müssen.
+
+7) Fördermitglieder haben kein Stimmrecht bei Mitgliederversammlungen.
+
 **§ 4 Der Vorstand**
 
 1) Der Vorstand besteht aus zwei Vorstehenden. Dem Vorstand können auf Beschluss der Mitgliederversammlung drei Stellvertreter:innen angehören.
@@ -140,7 +146,7 @@
 
 **§ 7 Beitrag**
 
-1) Es werden keine Mitgliederbeiträge erhoben.
+1) Es werden Mitgliedsbeiträge erhoben. Näheres regelt die Beitragsordnung.
 
 **§ 8 Kassenprüfung**
 
