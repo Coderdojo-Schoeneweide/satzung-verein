@@ -146,13 +146,7 @@
 
 **§ 7 Beitrag**
 
-1) Mitgliedschaft: Es werden keine Mitgliedsbeiträge erhoben.
-
-2) Fördermitgliedschaft: Natürlichen Personen wird die Möglichkeit gegeben, einen frei wählbaren Beitrag zu leisten. Empfohlen werden 60 € pro Jahr. Juristische Personen wie Unternehmen und Institutionen können die Ziele des Coderdojo Schöneweide mit einen Beitrag ab 240 € pro Jahr unterstützen.
-
-3) Förderbeiträge sind jährlich zum 31.1. zu entrichten auf das Konto des CoderDojo Schöneweide e.V.
-
-4) Neue Fördermitgliedschaften im aktuellen Kalenderjahr entrichten den vollen Förderbeitrag, wenn sie bis einschließlich Juni beigetreten sind. Fördermitgliedschaften ab Juli entrichten den Beitrag zum nächsten Kalenderjahr. 
+1) Es werden Mitgliedsbeiträge erhoben. Näheres regelt die Beitragsordnung Es werden Mitgliedsbeiträge erhoben. Näheres regelt die Beitragsordnung.
 
 **§ 8 Kassenprüfung**
 
