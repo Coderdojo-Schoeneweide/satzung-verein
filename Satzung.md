@@ -146,7 +146,7 @@
 
 **§ 7 Beitrag**
 
-1) Es werden Mitgliedsbeiträge erhoben. Näheres regelt die Beitragsordnung Es werden Mitgliedsbeiträge erhoben. Näheres regelt die Beitragsordnung.
+1) Es werden Mitgliedsbeiträge erhoben. Näheres regelt die Beitragsordnung.
 
 **§ 8 Kassenprüfung**
 
