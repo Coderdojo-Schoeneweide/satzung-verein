@@ -23,7 +23,7 @@ jobs:
               -V header-includes="\pagestyle{fancy}"
               -V header-includes="\fancyhf{}"
               -V header-includes="\renewcommand{\headrulewidth}{0pt}"
-              -V header-includes="\lfoot{Satzung v4}"
+              -V header-includes="\lfoot{Satzung v5}"
               -V header-includes="\rfoot{Generiert am: \today}"
               -V header-includes="\thispagestyle{fancy}"
               --output=Satzung.pdf
