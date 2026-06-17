@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v6
     
       - name: Convert Markdown to PDF with pandoc
-        uses: docker://pandoc/latex:2.9
+        uses: docker://pandoc/latex:3.10.0
         with:
             args: >-
               --standalone
@@ -26,14 +26,14 @@ jobs:
               -V header-includes="\lfoot{Satzung v5}"
               -V header-includes="\rfoot{Generiert am: \today}"
               -V header-includes="\thispagestyle{fancy}"
-              --output=Satzung.pdf
+              --output=satzung.pdf
               Satzung.md
           
       - name: Upload PDF artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
-          name: Satzung
-          path: Satzung.pdf
+          name: satzung
+          path: satzung.pdf
 
   deploy-pdf:
     runs-on: ubuntu-latest
@@ -41,9 +41,9 @@ jobs:
       - generate-pdf
     steps:
       - name: Download PDF artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
-          name: Satzung
+          name: satzung
 
       - name: Install SSH key
         uses: shimataro/ssh-key-action@v2
@@ -54,11 +54,11 @@ jobs:
 
       - name: Deploy
         run: |
-          git clone git@github.com:Coderdojo-Schoeneweide/website-hugo.git
+          git clone git@github.com:Coderdojo-Schoeneweide/website.git
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          cd website-hugo/
-          cp ../Satzung.pdf static/docs/verein/satzung.pdf
-          git add static/docs
+          cd website/
+          cp ../satzung.pdf public/docs/satzung.pdf
+          git add public/docs
           git commit -m "Updated Vereinssatzung PDF"
           git push origin master
